@@ -1,4 +1,4 @@
-# Revit Workshare QuickStart
+# Revit Workshare Quick Start
 
 ## Overview
 RevitWorkshareQuickStart is a Python script designed to enhance the workflow for Autodesk Revit and Revit Worksharing Monitor users. It allows you to open both applications simultaneously with a single click, streamlining your start-up process and improving your productivity.
